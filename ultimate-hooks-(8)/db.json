@@ -1,0 +1,42 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom hooks are awesome"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "Plan a meeting",
+      "id": 3
+    },
+    {
+      "content": "New plan",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Matti Luukkainen",
+      "number": "040-12344565"
+    },
+    {
+      "name": "Jaska Jokunen",
+      "number": "23-8997834",
+      "id": 2
+    },
+    {
+      "name": "Miettinen",
+      "number": "12-8970293",
+      "id": 3
+    },
+    {
+      "name": "Person",
+      "number": "09-7299873",
+      "id": 4
+    }
+  ]
+}
